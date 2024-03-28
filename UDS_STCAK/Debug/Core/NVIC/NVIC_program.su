@@ -1,0 +1,6 @@
+../Core/NVIC/NVIC_program.c:15:6:MNVIC_voidEnableInterrupt	16	static
+../Core/NVIC/NVIC_program.c:31:6:MNVIC_voidDisableInterrupt	16	static
+../Core/NVIC/NVIC_program.c:46:6:MNVIC_voidSetPenddingFlag	16	static
+../Core/NVIC/NVIC_program.c:61:6:MNVIC_voidClrPenddingFlag	16	static
+../Core/NVIC/NVIC_program.c:76:4:MNVIC_voidActiveFlag	24	static
+../Core/NVIC/NVIC_program.c:91:6:MNVIC_voidSetPriority	24	static

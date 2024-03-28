@@ -1,0 +1,5 @@
+../Core/USRT_MANAGE/USRTM_program.c:15:6:MUSARTM_voidInit	1
+../Core/USRT_MANAGE/USRTM_program.c:22:9:MUSARTM_u8RecieveUDSDecode	19
+../Core/USRT_MANAGE/USRTM_program.c:110:9:MUSARTM_u8transmitUDSencode	17
+../Core/USRT_MANAGE/USRTM_program.c:188:6:MUSARTM_u8RecieveUDSAsys	1
+../Core/USRT_MANAGE/USRTM_program.c:193:6:MUSARTM_TransmitUDSencode	2

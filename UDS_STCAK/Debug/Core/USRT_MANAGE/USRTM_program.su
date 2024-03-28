@@ -1,0 +1,5 @@
+../Core/USRT_MANAGE/USRTM_program.c:15:6:MUSARTM_voidInit	8	static
+../Core/USRT_MANAGE/USRTM_program.c:22:9:MUSARTM_u8RecieveUDSDecode	32	static
+../Core/USRT_MANAGE/USRTM_program.c:110:9:MUSARTM_u8transmitUDSencode	32	static
+../Core/USRT_MANAGE/USRTM_program.c:188:6:MUSARTM_u8RecieveUDSAsys	24	static
+../Core/USRT_MANAGE/USRTM_program.c:193:6:MUSARTM_TransmitUDSencode	24	static

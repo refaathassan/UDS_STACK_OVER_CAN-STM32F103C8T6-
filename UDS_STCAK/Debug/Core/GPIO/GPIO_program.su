@@ -1,0 +1,5 @@
+../Core/GPIO/GPIO_program.c:14:7:MGPIO_voidSetPinDirection	16	static
+../Core/GPIO/GPIO_program.c:61:7:MGPIO_voidSetPinValue	16	static
+../Core/GPIO/GPIO_program.c:86:7:MGPIO_voidTogPinValue	16	static
+../Core/GPIO/GPIO_program.c:102:7:MGPIO_u8GetPinValue	24	static
+../Core/GPIO/GPIO_program.c:113:7:MGPIO_voidSetPortValue	16	static
